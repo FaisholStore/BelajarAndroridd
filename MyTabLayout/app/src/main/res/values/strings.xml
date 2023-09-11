@@ -1,0 +1,12 @@
+<resources>
+   <string name="app_name">MyTabLayout</string>
+   <!-- TODO: Remove or change this placeholder text -->
+   <string name="hello_blank_fragment">Hello blank fragment</string>
+   <string name="hitung">Hitung</string>
+   <string name="angka_pertama">Angka pertama</string>
+   <string name="angka_kedua">Angka kedua</string>
+   <string name="hasil">Hasil:</string>
+   <string name="tambah">+</string>
+   <string name="minus">-</string>
+   <string name="kali">*</string>
+</resources>

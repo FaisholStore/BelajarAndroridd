@@ -1,0 +1,33 @@
+<resources>
+   <string name="app_name">MyAppBar</string>
+
+   <string name="hello_blank_fragment">Hello blank fragment</string>
+   <string name="this_activity">Ini adalah menu activity</string>
+   <string name="menu_1">Menu 1</string>
+   <string name="menu_2">Menu 2</string>
+   <string name="searchbar_hint">Masukkan kata</string>
+   <string name="large_text">
+   "Islam adalah salah satu agama besar di dunia dengan lebih dari satu miliar umat yang mengikutinya. "
+    "Agama ini didasarkan pada ajaran-ajaran yang ditemukan dalam kitab suci mereka, Al-Quran, yang diyakini sebagai "
+    "firman Allah. Islam juga menghormati ajaran-ajaran Nabi Muhammad sebagai pedoman bagi para penganutnya.\n\n"
+    "Ajaran dasar Islam mengandung konsep-konsep kunci, termasuk Tawhid (keyakinan akan satu Allah), "
+    "Risalah (keyakinan pada para nabi dan rasul), dan Akhirat (keyakinan pada hari kiamat dan kehidupan setelah kematian). "
+    "Selain itu, hukum syariah adalah panduan utama dalam kehidupan sehari-hari umat Muslim, yang mencakup berbagai "
+    "aspek seperti ritual ibadah, etika, moralitas, dan hukum perdata.\n\n"
+    "Salah satu praktik utama dalam Islam adalah menjalankan lima rukun Islam, yaitu:\n\n"
+    "1. Shalat: Umat Muslim diwajibkan untuk melakukan shalat lima kali sehari pada waktu-waktu tertentu.\n"
+    "2. Zakat: Memberikan sumbangan kepada yang membutuhkan sebagai bentuk solidaritas sosial.\n"
+    "3. Puasa: Menjalani puasa selama bulan Ramadan sebagai tanda ketaatan kepada Allah dan kendali diri.\n"
+    "4. Haji: Melakukan perjalanan ke Kota Mekah setidaknya sekali seumur hidup jika mampu melakukannya.\n"
+    "5. Syahadat: Mengucapkan kesaksian bahwa hanya ada satu Allah dan Nabi Muhammad adalah utusan-Nya.\n\n"
+    "Selain itu, nilai-nilai seperti kasih sayang, keadilan, dan keramahan sangat dihargai dalam Islam. "
+    "Islam juga mendorong pendidikan, pengetahuan, dan pembelajaran sepanjang hayat sebagai carauntuk lebih mendekatkan diri kepada Allah.\n\n"
+    "Ketahuilah bahwa Islam adalah agama yang beragam, dengan berbagai tradisi dan pandangan di seluruh dunia. "
+    "Penting untuk menghormati dan memahami perbedaan-perbedaan ini saat berinteraksi dengan komunitas Muslim. "
+    "Dalam Islam, toleransi dan kerukunan antarumat beragama juga merupakan nilai yang sangat dijunjung tinggi.\n\n"
+    "Akhirnya, Islam adalah agama yang mendalam dan kompleks dengan sejarah yang kaya dan banyak konsep filosofis. "
+    "Penting untuk melakukan penelitian yang lebih mendalam dan berbicara dengan para pakar agama ketika "
+    "Anda ingin memahami lebih lanjut tentang agama ini."
+</string>
+
+</resources>
