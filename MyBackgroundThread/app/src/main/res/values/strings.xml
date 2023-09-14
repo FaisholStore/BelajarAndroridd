@@ -1,3 +1,5 @@
 <resources>
    <string name="app_name">MyBackgroundThread</string>
+   <string name="start">Start</string>
+   <string name="status">status\n</string>
 </resources>
