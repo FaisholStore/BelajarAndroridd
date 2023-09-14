@@ -1,0 +1,9 @@
+<resources>
+   <string name="app_name">MyQuote</string>
+   <string name="quote">Kapan menurutmu orang meninggal? Ketika mereka tertembak di jantung oleh
+   peluru pistol? Tidak. Ketika mereka dilanda penyakit tak dapat sembuh? Tidak.
+   Ketika mereka minum sup yang terbuat dari jamur beracun!? Tidak! Itu terjadi... ketika...
+      mereka TERLUPAKAN.</string>
+   <string name="show_list_quotes">show list quotes\n</string>
+   <string name="author">author</string>
+</resources>
