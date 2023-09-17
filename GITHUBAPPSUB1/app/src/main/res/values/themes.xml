@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+   <!-- Base application theme. -->
+   <style name="Base.Theme.GITHUBAPPSUB1" parent="Theme.Material3.DayNight">
+      <item name="android:textColor">@color/black</item>
+
+      <!-- Mengatur warna hint -->
+      <item name="android:textColorHint">@color/gray</item>
+
+      <style name="Widget.Material3.SearchViewWithShadow">
+         <item name="android:elevation">10dp</item>
+      </style>
+
+      <style name="Widget.Material3.RecyclerViewWithShadow">
+         <item name="android:elevation">10dp</item>
+      </style>
+      <!-- Mengatur warna latar belakang -->
+<!--      <item name="android:background">@color/material_dynamic_primary90</item>-->
+   </style>
+
+   <style name="Theme.GITHUBAPPSUB1" parent="Base.Theme.GITHUBAPPSUB1" />
+
+   <color name="white">#FFFFFF</color>
+   <color name="gray">#AAAAAA</color>
+</resources>
