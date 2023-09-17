@@ -1,0 +1,13 @@
+<resources>
+   <string name="app_name">GITHUB-APP</string>
+
+   <string name="menggeser_dari_tab_1_ke_tab_2">menggeser dari tab 1 ke tab 2</string>
+   <string name="tab_1">Followers</string>
+   <string name="tab_2">Following</string>
+   <string name="search">Mau cari siapa?</string>
+   <string name="following_500">Following: 500</string>
+   <string name="followers_500">Followers: 500</string>
+   <string name="masukan_nama">Masukan nama</string>
+   <string name="data_pengikut_tidak_ditemukan">Data pengikut tidak ditemukan</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <style name="MyTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+      <item name="hintTextAppearance">@style/MyHintTextAppearance</item>
+   </style>
+
+   <style name="MyHintTextAppearance" parent="TextAppearance.Design.Hint">
+      <item name="android:textColor">#FFFFFF</item>
+      <item name="android:textSize">16sp</item>
+      <item name="android:textStyle">bold</item>
+   </style>
+
+
+
+</resources>
